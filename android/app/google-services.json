@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889981688011",
+    "project_id": "aves-e1c3c",
+    "storage_bucket": "aves-e1c3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889981688011:android:a4a43e5288040d2d28a34e",
+        "android_client_info": {
+          "package_name": "com.example.aves"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889981688011-ie2tpl4m9qe3kuie4reflsftva4ilrk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aves",
+            "certificate_hash": "f5238aa8fdd6b012f8bf2618676265eaf2aa8492"
+          }
+        },
+        {
+          "client_id": "889981688011-nl8tmkq68kgcu40v0ja2b31ker9ds3gr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoPCokd1h_2-VyAYGauDWJ8Q1jakCqiTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889981688011-nl8tmkq68kgcu40v0ja2b31ker9ds3gr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

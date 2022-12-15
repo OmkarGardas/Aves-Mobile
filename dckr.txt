@@ -1,0 +1,28 @@
+Docker Cli commands :-
+
+Docker command executed at cmd prompt
+1.docker -v
+display version of docker
+
+2.docker version
+displays current runnig status of docker
+
+3.docker images
+displays the images available on the local system
+
+4.docker run<image-Name>
+execute the image from docker server
+
+5.docker ps
+list of all running containers
+docker ps -a
+show runnig and executed containers
+
+6.docker stop
+stops the runnig container
+
+7.docker kill
+kill will abruptly close
+
+8.docker commit<container-id>
+9.docker push <image-Name>
